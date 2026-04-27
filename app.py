@@ -64,9 +64,9 @@ def receive_sensor():
 # ===== EMAIL FUNCTION =====
 def send_email(subject, message):
 
-    sender = "abinayaprabu0602@gmail.com"
-    password = "vagrngmngqyixerr"
-    receiver = "abinaya2310921@ssn.edu.in"
+    sender = "xxx@gmail.com"
+    password = "1234"
+    receiver = "yyy@gmail.com"
 
     msg = MIMEText(message)
 
